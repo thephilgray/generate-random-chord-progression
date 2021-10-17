@@ -1,0 +1,20 @@
+{
+  "name": "generate-random-chord-progression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-random-chord-progression.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "tone": "^14.7.77"
+  }
+}
