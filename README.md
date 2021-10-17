@@ -14,7 +14,7 @@ project uses parcel for config-free bundling. run `npm run build` to build `dist
 
 In the input with the label `Enter the number of chords per section (separated by a comma):`, they type `5` and press the enter/return key.
 
-Something like the following appears below the form as each chords is played in succession for ~1s:
+Something like the following appears below the form as each chords is played for ~1s, one after the other:
 
 ```
 C ------ A ------ F# ----- g ------ C
@@ -26,7 +26,7 @@ All the chord symbols are either major or minor triads, where capital letters ar
 
 In the input with the label `Enter the number of chords per section (separated by a comma):`, they type `2,6,3,4` and press the enter/return key.
 
-Something like the following appears below the form as each chords is played in succession for ~1s:
+Something like the following appears below the form as each chords is played for ~1s, one after the other:
 
 ```
 a# ----- e
